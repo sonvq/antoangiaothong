@@ -1,0 +1,330 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WebAnno - Application
+
+
+From: '7thWeb' (http://www.7thweb.net/wicket-jquery-ui/)
+  - wicket-jquery-ui (https://github.com/sebfz1/wicket-jquery-ui/wicket-jquery-ui) com.googlecode.wicket-jquery-ui:wicket-jquery-ui:bundle:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - wicket-jquery-ui-core (https://github.com/sebfz1/wicket-jquery-ui/wicket-jquery-ui-core) com.googlecode.wicket-jquery-ui:wicket-jquery-ui-core:bundle:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - wicket-jquery-ui-theme-uilightness (https://github.com/sebfz1/wicket-jquery-ui/wicket-jquery-ui-themes/wicket-jquery-ui-theme-uilightness) com.googlecode.wicket-jquery-ui:wicket-jquery-ui-theme-uilightness:bundle:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - wicket-kendo-ui (https://github.com/sebfz1/wicket-jquery-ui/wicket-kendo-ui) com.googlecode.wicket-jquery-ui:wicket-kendo-ui:bundle:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - wicket-kendo-ui-theme-default (https://github.com/sebfz1/wicket-jquery-ui/wicket-kendo-ui-themes/wicket-kendo-ui-theme-default) com.googlecode.wicket-jquery-ui:wicket-kendo-ui-theme-default:bundle:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'an unknown organization'
+  - AntLR Parser Generator (http://www.antlr.org/) antlr:antlr:jar:2.7.7
+    License: BSD License  (http://www.antlr.org/license.html)
+  - AOP alliance (http://aopalliance.sourceforge.net) aopalliance:aopalliance:jar:1.0
+    License: Public Domain 
+  - Code Generation Library (http://cglib.sourceforge.net/) cglib:cglib:jar:2.2.2
+    License: ASF 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - txtmark (https://github.com/rjeschke/txtmark) com.github.rjeschke:txtmark:jar:0.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - FindBugs-Annotations (http://findbugs.sourceforge.net/) com.google.code.findbugs:annotations:jar:2.0.1
+    License: GNU Lesser Public License  (http://www.gnu.org/licenses/lgpl.html)
+  - Guava: Google Core Libraries for Java (http://code.google.com/p/guava-libraries/guava) com.google.guava:guava:bundle:15.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - ICU4J (http://www.icu-project.org/) com.ibm.icu:icu4j:jar:4.0.1
+    License: ICU License  (http://source.icu-project.org/repos/icu/icu/trunk/license.html)
+  - cplex  cplex:cplex:jar:1.0.0
+
+  - mira  de.tu-darmstadt.langtech.mira:mira:jar:1.1.0
+
+  - WebAnno - Core - API (http://code.google.com/p/webanno/webanno-api/) de.tudarmstadt.ukp.clarin.webanno:webanno-api:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - Core - Persistence API (http://code.google.com/p/webanno/webanno-api-dao/) de.tudarmstadt.ukp.clarin.webanno:webanno-api-dao:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Automation (http://code.google.com/p/webanno/webanno-automation/) de.tudarmstadt.ukp.clarin.webanno:webanno-automation:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Annotation (http://code.google.com/p/webanno/webanno-brat/) de.tudarmstadt.ukp.clarin.webanno:webanno-brat:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - CONLL-U (http://code.google.com/p/webanno/webanno-conllu/) de.tudarmstadt.ukp.clarin.webanno:webanno-conllu:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - Core - Constraints (http://code.google.com/p/webanno/webanno-constraints/) de.tudarmstadt.ukp.clarin.webanno:webanno-constraints:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Crowdsourcing (http://code.google.com/p/webanno/webanno-crowdflower/) de.tudarmstadt.ukp.clarin.webanno:webanno-crowdflower:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - DKPro Core typesystem backports (http://code.google.com/p/webanno/webanno-dkprocore/) de.tudarmstadt.ukp.clarin.webanno:webanno-dkprocore:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - Documentation (http://code.google.com/p/webanno/webanno-doc/) de.tudarmstadt.ukp.clarin.webanno:webanno-doc:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - Core - Model (http://code.google.com/p/webanno/webanno-model/) de.tudarmstadt.ukp.clarin.webanno:webanno-model:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Monitoring (http://code.google.com/p/webanno/webanno-monitoring/) de.tudarmstadt.ukp.clarin.webanno:webanno-monitoring:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Project (http://code.google.com/p/webanno/webanno-project/) de.tudarmstadt.ukp.clarin.webanno:webanno-project:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - Core - Support (http://code.google.com/p/webanno/webanno-support/) de.tudarmstadt.ukp.clarin.webanno:webanno-support:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - TCF (http://code.google.com/p/webanno/webanno-tcf/) de.tudarmstadt.ukp.clarin.webanno:webanno-tcf:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - TEI (http://code.google.com/p/webanno/webanno-tei/) de.tudarmstadt.ukp.clarin.webanno:webanno-tei:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - Text (http://code.google.com/p/webanno/webanno-text/) de.tudarmstadt.ukp.clarin.webanno:webanno-text:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - TSV (http://code.google.com/p/webanno/webanno-tsv/) de.tudarmstadt.ukp.clarin.webanno:webanno-tsv:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - UI - Home (http://code.google.com/p/webanno/webanno-webapp-home/) de.tudarmstadt.ukp.clarin.webanno:webanno-webapp-home:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebAnno - IO - XMI (http://code.google.com/p/webanno/webanno-xmi/) de.tudarmstadt.ukp.clarin.webanno:webanno-xmi:jar:3.0.1
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - oaipmh-cmdi-bindings (https://github.com/weblicht/oaipmh-cmdi-bindings) eu.clarin.weblicht:oaipmh-cmdi-bindings:jar:1.0.5
+    License: GNU Lesser General Public License, Version 3  (http://www.gnu.org/licenses/lgpl.html)
+  - fastutil (http://fasutil.di.unimi.it/) it.unimi.dsi:fastutil:jar:7.0.9
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - javax.inject (http://code.google.com/p/atinject/) javax.inject:javax.inject:jar:1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - MySQL java connector (http://dev.mysql.com/usingmysql/java/) mysql:mysql-connector-java:jar:5.1.17
+    License: The GNU General Public License, Version 2  (http://www.gnu.org/licenses/gpl.txt)
+  - StAX Utilities Project (http://java.net/projects/stax-utils/) net.java.dev.stax-utils:stax-utils:jar:20070216
+    License: BSD  (http://www.opensource.org/licenses/bsd-license.html)
+  - trove  net.sf.trove:trove:jar:2.1.0
+
+  - AspectJ runtime (http://www.aspectj.org) org.aspectj:aspectjrt:jar:1.6.10
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - AspectJ weaver (http://www.aspectj.org) org.aspectj:aspectjweaver:jar:1.8.8
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - Javassist (http://www.javassist.org/) org.javassist:javassist:bundle:3.19.0-GA
+    License: MPL 1.1  (http://www.mozilla.org/MPL/MPL-1.1.html)    License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)    License: Apache License 2.0  (http://www.apache.org/licenses/)
+  - JRobin (http://www.jrobin.org/) org.jrobin:jrobin:jar:1.5.9
+    License: LGPL 
+  - Reflections (http://github.com/ronmamo/reflections) org.reflections:reflections:jar:0.9.10
+    License: WTFPL  (http://www.wtfpl.net/)    License: The New BSD License  (http://www.opensource.org/licenses/bsd-license.html)
+  - XZ for Java (http://tukaani.org/xz/java.html) org.tukaani:xz:jar:1.4
+    License: Public Domain 
+  - Wicket Annotations (http://wicketstuff.org/wicketstuff-annotation) org.wicketstuff:wicketstuff-annotation:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Input Events (http://wicketstuff.org/input-events-parent/wicketstuff-input-events) org.wicketstuff:wicketstuff-input-events:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - wicketstuff-progressbar (http://wicketstuff.org/wicketstuff-progressbar/) org.wicketstuff:wicketstuff-progressbar:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://apache.org)
+  - Wicket (http://wicket.apache.org/wicket/wicket) org.apache.wicket:wicket:pom:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Auth Roles (http://wicket.apache.org/wicket-auth-roles/wicket-auth-roles) org.apache.wicket:wicket-auth-roles:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Core (http://wicket.apache.org/wicket-core/wicket-core) org.apache.wicket:wicket-core:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Extensions (http://wicket.apache.org/wicket-extensions/wicket-extensions) org.apache.wicket:wicket-extensions:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket IoC common code (http://wicket.apache.org/wicket-ioc/wicket-ioc) org.apache.wicket:wicket-ioc:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Request (http://maven.apache.org) org.apache.wicket:wicket-request:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Spring Integration (http://wicket.apache.org/wicket-spring/wicket-spring) org.apache.wicket:wicket-spring:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Wicket Util (http://wicket.apache.org/wicket-util/wicket-util) org.apache.wicket:wicket-util:jar:6.24.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.16
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - XML Commons External Components XML APIs (http://xml.apache.org/commons/components/external/) xml-apis:xml-apis:jar:1.3.04
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation'
+  - org.apache.tools.ant (http://ant.apache.org/ant/) org.apache.ant:ant:jar:1.8.1
+
+  - ant-launcher (http://ant.apache.org/ant-launcher/) org.apache.ant:ant-launcher:jar:1.8.1
+
+
+From: 'Codehaus' (http://codehaus.org)
+  - jaxen (http://jaxen.codehaus.org/) jaxen:jaxen:jar:1.1.1
+
+
+From: 'Codehaus' (http://www.codehaus.org/)
+  - Plexus Common Utilities (http://plexus.codehaus.org/plexus-utils) org.codehaus.plexus:plexus-utils:jar:2.0.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Department of Linguistics, Tübingen University' (http://www.sfs.uni-tuebingen.de/)
+  - wlfxb (https://weblicht.sfs.uni-tuebingen.de/) eu.clarin.weblicht:wlfxb:jar:1.3.1
+    License: GNU Lesser General Public License, Version 3  (http://www.gnu.org/licenses/lgpl.html)
+
+From: 'Emeric Vernat'
+  - JavaMelody - Core (http://javamelody.googlecode.com/) net.bull.javamelody:javamelody-core:jar:1.52.0
+    License: ASL  (LICENSE)
+
+From: 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-annotations:bundle:2.6.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson-core) com.fasterxml.jackson.core:jackson-core:bundle:2.6.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson) com.fasterxml.jackson.core:jackson-databind:bundle:2.6.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Hibernate.org' (http://hibernate.org)
+  - A Hibernate Core Module (http://hibernate.org) org.hibernate:hibernate-core:jar:4.1.4.Final
+    License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - A Hibernate Core Module (http://hibernate.org) org.hibernate:hibernate-entitymanager:jar:4.1.4.Final
+    License: GNU Lesser General Public License  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - Hibernate Commons Annotations (http://hibernate.org) org.hibernate.common:hibernate-commons-annotations:jar:4.0.1.Final
+    License: GNU LESSER GENERAL PUBLIC LICENSE  (http://www.gnu.org/licenses/lgpl-2.1.html)
+  - JPA 2.0 API (http://hibernate.org) org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final
+    License: $license.name  (license.txt)
+
+From: 'JBoss by Red Hat' (http://www.jboss.org)
+  - JBoss Logging 3 (http://www.jboss.org) org.jboss.logging:jboss-logging:jar:3.1.0.GA
+    License: GNU Lesser General Public License, version 2.1  (http://www.gnu.org/licenses/lgpl-2.1.txt)
+
+From: 'JBoss, a division of Red Hat, Inc.' (http://www.jboss.org)
+  - Transaction 1.1 API (http://jboss-transaction-api_1.1_spec/) org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.0.Final
+    License: lgpl  (http://repository.jboss.org/licenses/lgpl-2.1.txt)
+
+From: 'JFree.org' (http://www.jfree.org/)
+  - JCommon (http://www.jfree.org/jcommon/) org.jfree:jcommon:jar:1.0.21
+    License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+  - JFreeChart (http://www.jfree.org/jfreechart/) org.jfree:jfreechart:jar:1.0.17
+    License: GNU Lesser General Public Licence  (http://www.gnu.org/licenses/lgpl.txt)
+
+From: 'MetaStuff Ltd.' (http://sourceforge.net/projects/dom4j)
+  - dom4j (http://dom4j.org) dom4j:dom4j:jar:1.6.1
+
+
+From: 'ObjectWeb' (http://www.objectweb.org/)
+  - ASM Core (http://asm.objectweb.org/asm/) asm:asm:jar:3.3.1
+    License: BSD  (http://asm.objectweb.org/license.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.6.4
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J LOG4J-12 Binding (http://www.slf4j.org) org.slf4j:slf4j-log4j12:jar:1.6.4
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Spring IO' (http://projects.spring.io/spring-framework)
+  - Spring AOP (https://github.com/spring-projects/spring-framework) org.springframework:spring-aop:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Aspects (https://github.com/spring-projects/spring-framework) org.springframework:spring-aspects:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Beans (https://github.com/spring-projects/spring-framework) org.springframework:spring-beans:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Context (https://github.com/spring-projects/spring-framework) org.springframework:spring-context:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Core (https://github.com/spring-projects/spring-framework) org.springframework:spring-core:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Expression Language (SpEL) (https://github.com/spring-projects/spring-framework) org.springframework:spring-expression:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring JDBC (https://github.com/spring-projects/spring-framework) org.springframework:spring-jdbc:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Object/Relational Mapping (https://github.com/spring-projects/spring-framework) org.springframework:spring-orm:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Object/XML Marshalling (https://github.com/spring-projects/spring-framework) org.springframework:spring-oxm:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Transaction (https://github.com/spring-projects/spring-framework) org.springframework:spring-tx:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Web (https://github.com/spring-projects/spring-framework) org.springframework:spring-web:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Spring Web MVC (https://github.com/spring-projects/spring-framework) org.springframework:spring-webmvc:jar:4.2.5.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'spring.io' (http://spring.io/)
+  - spring-security-config (http://spring.io/spring-security) org.springframework.security:spring-security-config:jar:4.0.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - spring-security-core (http://spring.io/spring-security) org.springframework.security:spring-security-core:jar:4.0.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - spring-security-web (http://spring.io/spring-security) org.springframework.security:spring-security-web:jar:4.0.4.RELEASE
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Commons DBCP (http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/) commons-dbcp:commons-dbcp:jar:1.2.2
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+  - Logging (http://jakarta.apache.org/commons/logging/) commons-logging:commons-logging-api:jar:1.1
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+  - Commons Pool (http://jakarta.apache.org/commons/${pom.artifactId.substring(8)}/) commons-pool:commons-pool:jar:1.3
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons Codec (http://commons.apache.org/codec/) commons-codec:commons-codec:jar:1.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Collections (http://commons.apache.org/collections/) commons-collections:commons-collections:jar:3.2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons FileUpload (http://commons.apache.org/proper/commons-fileupload/) commons-fileupload:commons-fileupload:jar:1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons JXPath (http://commons.apache.org/jxpath/) commons-jxpath:commons-jxpath:jar:1.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/) commons-lang:commons-lang:jar:2.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Logging (http://commons.apache.org/proper/commons-logging/) commons-logging:commons-logging:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (http://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons CSV (http://commons.apache.org/proper/commons-csv/) org.apache.commons:commons-csv:jar:1.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.3.1
+    License: Apache License  (LICENSE.txt)
+  - Apache HttpCore (http://hc.apache.org/httpcomponents-core-ga) org.apache.httpcomponents:httpcore:jar:4.3.1
+    License: Apache License, Version 2.0  (LICENSE.txt)
+  - Apache Ivy (http://ant.apache.org/ivy/) org.apache.ivy:ivy:jar:2.3.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Maven Model (http://maven.apache.org/ref/3.0.5//maven-model) org.apache.maven:maven-model:jar:3.0.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache UIMA uimaFIT - Core (http://uima.apache.org) org.apache.uima:uimafit-core:jar:2.2.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache UIMA Base: uimaj-core (http://uima.apache.org) org.apache.uima:uimaj-core:jar:2.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache UIMA Base: uimaj-document-annotation (http://uima.apache.org) org.apache.uima:uimaj-document-annotation:jar:2.8.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Xerces2 Java Parser (http://xerces.apache.org/xerces2-j) xerces:xercesImpl:jar:2.9.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The HSQL Development Group' (http://hsqldb.org)
+  - HyperSQL Database (http://hsqldb.org) org.hsqldb:hsqldb:jar:2.3.1
+    License: HSQLDB License, a BSD open source license  (http://hsqldb.org/web/hsqlLicense.html)
+
+From: 'ThreeTen.org' (http://www.threeten.org)
+  - ThreeTen backport (https://www.threeten.org/threetenbp) org.threeten:threetenbp:jar:1.3.1
+    License: BSD 3-clause  (https://raw.githubusercontent.com/ThreeTen/threetenbp/master/LICENSE.txt)
+
+From: 'Ubiquitous Knowledge Processing (UKP) Lab' (http://www.ukp.tu-darmstadt.de/)
+  - DKPro Agreement (http://code.google.com/p/dkpro-statistics/dkpro-statistics-agreement/) de.tudarmstadt.ukp.dkpro.statistics:dkpro-statistics-agreement:jar:2.0.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Ubiquitous Knowledge Processing (UKP) Lab, Technische Universität Darmstadt'
+  - DKPro Core ASL - Coreference API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.coref-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.coref-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - FeaturePath API (ASL) (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.featurepath-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.featurepath-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.io-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.io-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Part-of-Speech API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.lexmorph-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.lexmorph-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Metadata API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.metadata-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.metadata-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Named Entity Recognition API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.ner-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.ner-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Parameter API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.parameter-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.parameter-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Resources API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.resources-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.resources-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Lexical Units API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.segmentation-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.segmentation-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Semantics API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.semantics-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.semantics-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Syntax API (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.api.syntax-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.api.syntax-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO - Binary UIMA CAS (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.io.bincas-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.io.bincas-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO - CONLL (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.io.conll-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.io.conll-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO - Penn Treebank Format (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.io.penntree-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.io.penntree-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO - Text (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.io.text-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.io.text-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - IO - XMI (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.io.xmi-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.io.xmi-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - DKPro Core ASL - Tokenization Toolkit (https://code.google.com/p/dkpro-core-asl/de.tudarmstadt.ukp.dkpro.core.tokit-asl/) de.tudarmstadt.ukp.dkpro.core:de.tudarmstadt.ukp.dkpro.core.tokit-asl:jar:1.7.0
+    License: Apache License Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
